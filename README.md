@@ -21,7 +21,4 @@ Comunícate instantáneamente con otros estudiantes de tu universidad o particip
 - [React](https://react.dev/) - Biblioteca para construir interfaces de usuario.
 - [React Router](https://reactrouter.com/) - Navegación y gestión de rutas.
 - [Socket.io-client](https://socket.io/docs/v4/client-api/) - Comunicación en tiempo real con WebSockets.
-- ShadcnUI
-- DaisyUI
-- Lucide React
 ---
